@@ -5,7 +5,7 @@ I'm a passionate software engineer and problem solver with a diverse background 
 ## 🔧 Technologies & Tools
 
 - **Languages**: Python, JavaScript
-- **Frameworks**: React
+- **Frameworks**: React, Express JS
 - **Version Control**: Git
 - **Other**: HTML, CSS, MongoDB, NodeJS
 
